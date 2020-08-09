@@ -8,7 +8,7 @@ public class SpringBootOneApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootOneApplication.class, args);
-		System.out.println("ramakrsishna");
+	   Integer IL=10;
 		System.out.println("raja");
 	}
 
