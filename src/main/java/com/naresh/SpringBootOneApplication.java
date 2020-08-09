@@ -9,6 +9,7 @@ public class SpringBootOneApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootOneApplication.class, args);
 		System.out.println("ramakrsishna");
+		System.out.println("raja");
 	}
 
 }
